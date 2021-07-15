@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Englishes on Reaprendiendo a desarrollar a los 58</title>
+    <link>https://example.com/english/</link>
+    <description>Recent content in Englishes on Reaprendiendo a desarrollar a los 58</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeros Pasos en R language</title>
+      <link>https://example.com/english/post/2021-07-15-primeros-pasos-en-r-language/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/english/post/2021-07-15-primeros-pasos-en-r-language/</guid>
+      
+        <description>Heder 1 This is some text
+ Heder 2 - Title of H2 seq(1,20,by=0.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
