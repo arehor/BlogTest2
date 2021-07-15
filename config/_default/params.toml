@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
+title = "Soy Alejandro Alonso Rehor"
 author = "Alejandro Alonso Rehor"
 #copyright = "2020-2021"
-description = "Basada en hechos reales"
+description = "Basado en hechos reales"
 profilePicture = "images/profile2.jpeg"
 keywords = ""
 favicon = "favicons/"
@@ -46,7 +46,7 @@ url = "https://de.linkedin.com/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/arehor"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
